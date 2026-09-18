@@ -19,10 +19,6 @@
 
 - Note App
 
-## Github Stats
-
-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LinnPyaePhyoe&show_icons=true)
-
 ## Contact
 
 - linnpyaephyoe.linnlinn@gmail.com
