@@ -13,11 +13,11 @@
 
 ## Currently Learning
 
--HTML, Kotlin, Jetpack Compose
+- HTML, Kotlin, Jetpack Compose
 
 ## Projects
 
--Note App
+- Note App
 
 ## Contact
 
