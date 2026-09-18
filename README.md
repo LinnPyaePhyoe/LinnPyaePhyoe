@@ -11,7 +11,7 @@
 
 - C++, Python, Java
 
-##Currently Learning
+## Currently Learning
 
 -HTML, Kotlin, Jetpack Compose
 
